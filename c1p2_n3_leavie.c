@@ -8,7 +8,7 @@ int i = 1; // times of  increment one
 int t = 1; // times of next selected number
 int k = 1;
 scanf("%d", &n);
-while (n > 0){
+while (n >= 0){
         printf("i=%d,t=%d,k=%d\n",i,t,k);
         if (i == t) {
             sum += n;
