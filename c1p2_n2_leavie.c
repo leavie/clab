@@ -5,7 +5,7 @@ int main() {
 	int max = 0; // max length
 	int len = 0; // current length
 	scanf("%d",&n);
-	while (n>0) {
+	while (n>=0) {
 		if ( n > p) {
 			len += 1;
 		} else {
