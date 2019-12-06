@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1574998917 source:c:\users\ttucse\desktop\prob14\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
